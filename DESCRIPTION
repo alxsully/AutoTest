@@ -1,0 +1,18 @@
+Package: AutoClustR
+Type: Package
+Title: Unbiased clustering for single cell datasets
+Version: 1.0.0
+Author: Daniel R. Romano, Alex Solivais
+Maintainer: Daniel R. Romano <drromano@iu.edu>, Alex Solivais <asolivai@iu.edu>
+Description: This is just a placeholder
+    More placeholder
+Imports:
+	tidyverse,
+	Seurat,
+	segmented,
+	cowplot,
+	clusterCrit
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0.9000
